@@ -1,0 +1,12 @@
+<StudentData>
+	<Student>
+		<Name>User1</Name>
+		<Location>CBE</Location>
+	</Student>
+	<Student>
+		<Name>User2</Name>
+		<Location>BLR</Location>
+	</Student>
+</StudentData>
+
+<!-- this is an xml dom -->
